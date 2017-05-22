@@ -26,6 +26,16 @@
 		77CDCD3B1ED2AA9C008967FE /* DHLearn01.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD3A1ED2AA9C008967FE /* DHLearn01.m */; };
 		77CDCD411ED2AB43008967FE /* DHStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD401ED2AB43008967FE /* DHStudent.m */; };
 		77CDCD441ED2C262008967FE /* DHStudent2.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD431ED2C262008967FE /* DHStudent2.m */; };
+		77CDCD461ED2D62E008967FE /* DHLearn02.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD451ED2D62E008967FE /* DHLearn02.m */; };
+		77CDCD491ED2D783008967FE /* DHStudent3.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD481ED2D783008967FE /* DHStudent3.m */; };
+		77CDCD4C1ED2D7D9008967FE /* DHPen.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD4B1ED2D7D9008967FE /* DHPen.m */; };
+		77CDCD4E1ED2DAAB008967FE /* IMG_3044.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 77CDCD4D1ED2DAAB008967FE /* IMG_3044.JPG */; };
+		77CDCD501ED2DBB4008967FE /* DHLearn03.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD4F1ED2DBB4008967FE /* DHLearn03.m */; };
+		77CDCD531ED2DD3A008967FE /* DHDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD521ED2DD3A008967FE /* DHDog.m */; };
+		77CDCD551ED2DFD3008967FE /* DHLearn04.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD541ED2DFD3008967FE /* DHLearn04.m */; };
+		77CDCD581ED2E17B008967FE /* DHNoticeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD571ED2E17B008967FE /* DHNoticeModel.m */; };
+		77CDCD5A1ED2E451008967FE /* DHLearn05.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD591ED2E451008967FE /* DHLearn05.m */; };
+		77CDCD5D1ED2E533008967FE /* DHData.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD5C1ED2E533008967FE /* DHData.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +78,21 @@
 		77CDCD401ED2AB43008967FE /* DHStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHStudent.m; sourceTree = "<group>"; };
 		77CDCD421ED2C262008967FE /* DHStudent2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHStudent2.h; sourceTree = "<group>"; };
 		77CDCD431ED2C262008967FE /* DHStudent2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHStudent2.m; sourceTree = "<group>"; };
+		77CDCD451ED2D62E008967FE /* DHLearn02.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHLearn02.m; sourceTree = "<group>"; };
+		77CDCD471ED2D783008967FE /* DHStudent3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHStudent3.h; sourceTree = "<group>"; };
+		77CDCD481ED2D783008967FE /* DHStudent3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHStudent3.m; sourceTree = "<group>"; };
+		77CDCD4A1ED2D7D9008967FE /* DHPen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHPen.h; sourceTree = "<group>"; };
+		77CDCD4B1ED2D7D9008967FE /* DHPen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHPen.m; sourceTree = "<group>"; };
+		77CDCD4D1ED2DAAB008967FE /* IMG_3044.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3044.JPG; sourceTree = "<group>"; };
+		77CDCD4F1ED2DBB4008967FE /* DHLearn03.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHLearn03.m; sourceTree = "<group>"; };
+		77CDCD511ED2DD3A008967FE /* DHDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHDog.h; sourceTree = "<group>"; };
+		77CDCD521ED2DD3A008967FE /* DHDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHDog.m; sourceTree = "<group>"; };
+		77CDCD541ED2DFD3008967FE /* DHLearn04.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHLearn04.m; sourceTree = "<group>"; };
+		77CDCD561ED2E17B008967FE /* DHNoticeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHNoticeModel.h; sourceTree = "<group>"; };
+		77CDCD571ED2E17B008967FE /* DHNoticeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHNoticeModel.m; sourceTree = "<group>"; };
+		77CDCD591ED2E451008967FE /* DHLearn05.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHLearn05.m; sourceTree = "<group>"; };
+		77CDCD5B1ED2E533008967FE /* DHData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHData.h; sourceTree = "<group>"; };
+		77CDCD5C1ED2E533008967FE /* DHData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHData.m; sourceTree = "<group>"; };
 		7F4C5B52C04FEBD4381AC136 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CEBA17FF0A690C10666C9CA3 /* Pods-DHLearnRealm_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DHLearnRealm_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DHLearnRealm_Example/Pods-DHLearnRealm_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -149,6 +174,17 @@
 				77CDCD401ED2AB43008967FE /* DHStudent.m */,
 				77CDCD421ED2C262008967FE /* DHStudent2.h */,
 				77CDCD431ED2C262008967FE /* DHStudent2.m */,
+				77CDCD471ED2D783008967FE /* DHStudent3.h */,
+				77CDCD481ED2D783008967FE /* DHStudent3.m */,
+				77CDCD4A1ED2D7D9008967FE /* DHPen.h */,
+				77CDCD4B1ED2D7D9008967FE /* DHPen.m */,
+				77CDCD511ED2DD3A008967FE /* DHDog.h */,
+				77CDCD521ED2DD3A008967FE /* DHDog.m */,
+				77CDCD561ED2E17B008967FE /* DHNoticeModel.h */,
+				77CDCD571ED2E17B008967FE /* DHNoticeModel.m */,
+				77CDCD5B1ED2E533008967FE /* DHData.h */,
+				77CDCD5C1ED2E533008967FE /* DHData.m */,
+				77CDCD4D1ED2DAAB008967FE /* IMG_3044.JPG */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -173,6 +209,10 @@
 			children = (
 				6003F5BB195388D20070C39A /* Tests.m */,
 				77CDCD3A1ED2AA9C008967FE /* DHLearn01.m */,
+				77CDCD451ED2D62E008967FE /* DHLearn02.m */,
+				77CDCD4F1ED2DBB4008967FE /* DHLearn03.m */,
+				77CDCD541ED2DFD3008967FE /* DHLearn04.m */,
+				77CDCD591ED2E451008967FE /* DHLearn05.m */,
 				6003F5B6195388D20070C39A /* Supporting Files */,
 			);
 			path = Tests;
@@ -297,6 +337,7 @@
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
+				77CDCD4E1ED2DAAB008967FE /* IMG_3044.JPG in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
@@ -410,11 +451,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77CDCD581ED2E17B008967FE /* DHNoticeModel.m in Sources */,
+				77CDCD531ED2DD3A008967FE /* DHDog.m in Sources */,
 				6003F59E195388D20070C39A /* DHAppDelegate.m in Sources */,
+				77CDCD5D1ED2E533008967FE /* DHData.m in Sources */,
 				77CDCD441ED2C262008967FE /* DHStudent2.m in Sources */,
 				77CDCD411ED2AB43008967FE /* DHStudent.m in Sources */,
+				77CDCD491ED2D783008967FE /* DHStudent3.m in Sources */,
 				6003F5A7195388D20070C39A /* DHViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
+				77CDCD4C1ED2D7D9008967FE /* DHPen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,8 +468,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77CDCD461ED2D62E008967FE /* DHLearn02.m in Sources */,
+				77CDCD551ED2DFD3008967FE /* DHLearn04.m in Sources */,
 				6003F5BC195388D20070C39A /* Tests.m in Sources */,
+				77CDCD5A1ED2E451008967FE /* DHLearn05.m in Sources */,
 				77CDCD3B1ED2AA9C008967FE /* DHLearn01.m in Sources */,
+				77CDCD501ED2DBB4008967FE /* DHLearn03.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
