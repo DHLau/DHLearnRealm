@@ -1,0 +1,21 @@
+PODS:
+  - DHLearnRealm (0.1.0):
+    - Realm
+  - Realm (2.7.0):
+    - Realm/Headers (= 2.7.0)
+  - Realm/Headers (2.7.0)
+
+DEPENDENCIES:
+  - DHLearnRealm (from `../`)
+
+EXTERNAL SOURCES:
+  DHLearnRealm:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DHLearnRealm: 6c8b1ecb687ab92160cb018452fc58f5bb968ed7
+  Realm: 07e5d3a9e0e41d65fd5f9f05150ed6295d0f093b
+
+PODFILE CHECKSUM: b87cbde69b3d5699cafffff430cc85245b897201
+
+COCOAPODS: 1.2.1

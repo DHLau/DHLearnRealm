@@ -23,6 +23,9 @@
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
+		77CDCD3B1ED2AA9C008967FE /* DHLearn01.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD3A1ED2AA9C008967FE /* DHLearn01.m */; };
+		77CDCD411ED2AB43008967FE /* DHStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD401ED2AB43008967FE /* DHStudent.m */; };
+		77CDCD441ED2C262008967FE /* DHStudent2.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CDCD431ED2C262008967FE /* DHStudent2.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -37,7 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0818AD1C9C8AE2B61CD3CB15 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		0818AD1C9C8AE2B61CD3CB15 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		0F6C2FD9F7AB5F0B85DB8A0A /* Pods-DHLearnRealm_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DHLearnRealm_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DHLearnRealm_Tests/Pods-DHLearnRealm_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* DHLearnRealm_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DHLearnRealm_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -60,12 +63,17 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		61DDF506C07477B1A4CC0B2D /* Pods_DHLearnRealm_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DHLearnRealm_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7F4C5B52C04FEBD4381AC136 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		77CDCD3A1ED2AA9C008967FE /* DHLearn01.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHLearn01.m; sourceTree = "<group>"; };
+		77CDCD3F1ED2AB43008967FE /* DHStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHStudent.h; sourceTree = "<group>"; };
+		77CDCD401ED2AB43008967FE /* DHStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHStudent.m; sourceTree = "<group>"; };
+		77CDCD421ED2C262008967FE /* DHStudent2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DHStudent2.h; sourceTree = "<group>"; };
+		77CDCD431ED2C262008967FE /* DHStudent2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DHStudent2.m; sourceTree = "<group>"; };
+		7F4C5B52C04FEBD4381AC136 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CEBA17FF0A690C10666C9CA3 /* Pods-DHLearnRealm_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DHLearnRealm_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DHLearnRealm_Example/Pods-DHLearnRealm_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D77393726916CEFC2E4F346C /* Pods_DHLearnRealm_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DHLearnRealm_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB4D513707FF4AE71595B4AD /* Pods-DHLearnRealm_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DHLearnRealm_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DHLearnRealm_Tests/Pods-DHLearnRealm_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		FD4F5EE6F03A2EFAFD1F0FF0 /* DHLearnRealm.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DHLearnRealm.podspec; path = ../DHLearnRealm.podspec; sourceTree = "<group>"; };
+		FD4F5EE6F03A2EFAFD1F0FF0 /* DHLearnRealm.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DHLearnRealm.podspec; path = ../DHLearnRealm.podspec; sourceTree = "<group>"; };
 		FE35D75F7EEB0F28884C4359 /* Pods-DHLearnRealm_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DHLearnRealm_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DHLearnRealm_Example/Pods-DHLearnRealm_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -137,6 +145,10 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* DHViewController.h */,
 				6003F5A6195388D20070C39A /* DHViewController.m */,
+				77CDCD3F1ED2AB43008967FE /* DHStudent.h */,
+				77CDCD401ED2AB43008967FE /* DHStudent.m */,
+				77CDCD421ED2C262008967FE /* DHStudent2.h */,
+				77CDCD431ED2C262008967FE /* DHStudent2.m */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -160,6 +172,7 @@
 			isa = PBXGroup;
 			children = (
 				6003F5BB195388D20070C39A /* Tests.m */,
+				77CDCD3A1ED2AA9C008967FE /* DHLearn01.m */,
 				6003F5B6195388D20070C39A /* Supporting Files */,
 			);
 			path = Tests;
@@ -250,6 +263,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = DHLau;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = UFR9B68S2F;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -395,6 +411,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F59E195388D20070C39A /* DHAppDelegate.m in Sources */,
+				77CDCD441ED2C262008967FE /* DHStudent2.m in Sources */,
+				77CDCD411ED2AB43008967FE /* DHStudent.m in Sources */,
 				6003F5A7195388D20070C39A /* DHViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
@@ -405,6 +423,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F5BC195388D20070C39A /* Tests.m in Sources */,
+				77CDCD3B1ED2AA9C008967FE /* DHLearn01.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -524,6 +543,7 @@
 			baseConfigurationReference = FE35D75F7EEB0F28884C4359 /* Pods-DHLearnRealm_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UFR9B68S2F;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DHLearnRealm/DHLearnRealm-Prefix.pch";
 				INFOPLIST_FILE = "DHLearnRealm/DHLearnRealm-Info.plist";
@@ -539,6 +559,7 @@
 			baseConfigurationReference = CEBA17FF0A690C10666C9CA3 /* Pods-DHLearnRealm_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UFR9B68S2F;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DHLearnRealm/DHLearnRealm-Prefix.pch";
 				INFOPLIST_FILE = "DHLearnRealm/DHLearnRealm-Info.plist";

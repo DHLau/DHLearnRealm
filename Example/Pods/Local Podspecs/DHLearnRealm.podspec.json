@@ -1,0 +1,27 @@
+{
+  "name": "DHLearnRealm",
+  "version": "0.1.0",
+  "summary": "A short description of DHLearnRealm.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DHLau/DHLearnRealm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DHLau": "liudunhui@11wlw.com"
+  },
+  "source": {
+    "git": "https://github.com/DHLau/DHLearnRealm.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DHLearnRealm/Classes/**/*",
+  "dependencies": {
+    "Realm": [
+
+    ]
+  }
+}
