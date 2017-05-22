@@ -18,10 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "DHLearnRealm/Classes/**/*",
-  "dependencies": {
-    "Realm": [
-
-    ]
-  }
+  "source_files": "DHLearnRealm/Classes/**/*"
 }

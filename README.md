@@ -7,18 +7,9 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+到podspec文件中，打开注释 # s.dependency 'Realm'
 
-## Requirements
-
-## Installation
-
-DHLearnRealm is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "DHLearnRealm"
-```
+执行pod install
 
 ## Author
 
